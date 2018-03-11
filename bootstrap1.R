@@ -1,4 +1,4 @@
-##Problem description :Write a function bootLAR(x, y, conf=0.99, B=1e3) that fits a 
+##Problem description: Write a function bootLAR(x, y, conf=0.99, B=1e3) that fits a 
 ##(simple) linear model explaining y as a function of x by LAR and returns
 ##bootstrap pivotal confidence intervals (based on B repeats) for the coefficient vectors.
 
